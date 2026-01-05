@@ -4,7 +4,7 @@
 
 # Neeraj Sharma
 
-Senior Cloud and DevSecOps Engineer | SRE, Cloud Security, Observability, AI/MLOps, IoT
+Staff / Principal Cloud & Platform Architect | DevSecOps & DSPM | Kubernetes & CI/CD | Applied AI/ML & GenAI | Hybrid Cloud | IoT (Smart Grid)
 
 Staff / Principal-level platform engineer and architect with 25+ years of experience building and operating secure, large-scale cloud, distributed, and IoT platforms across enterprise and industrial environments. I focus on designing systems where architecture, reliability, security, and data-informed (AI-assisted) decision-making intersect to deliver durable, production-grade outcomes.
 
@@ -12,7 +12,7 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 
 #### Experience Snapshot
 
-[Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)ƒfiybdRUI
+[Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)
 
 #### Complete Resume
 [neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
