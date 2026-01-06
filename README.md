@@ -45,7 +45,7 @@ A deliberately curated set of certifications and credentials validating producti
 |--------------|------|--------|----------|
 | **Cyera Certified DSPM Architect**<br/>![Cyera DSPM Architect](assets/certs/ns_dspm_a_icon.png) | DSPM, data discovery & classification; exposure, risk & governance | Earned | [Certificate (PNG)](assets/certs/cyera-dspm-architect.png) |
 | **Kubeflow**<br/>![Kubeflow](assets/certs/ns_kf_icon.png) | Kubernetes-native MLOps; pipelines, training & serving | Earned | [Certificate (PNG)](assets/certs/kubeflow.png) |
-| **Agentic AI**<br/>![Agentic AI](assets/certs/NS_agentic_ai_icon.png) | Agent-based systems; orchestration, tool-calling & guardrails | Earned | [Certificate (PNG)](assets/certs/agentic-ai.png) |
+| **Agentic AI**<br/>![Agentic AI](assets/certs/NS_agentic_ai_icon.png) | Agent-based systems; orchestration, tool-calling & guardrails | Earned | [Agentic-AI Gihub Repo)](https://github.com/neeraj-sharma-0/agentic_ai) |
 
 
 <hr>
