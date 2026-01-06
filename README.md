@@ -24,7 +24,7 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 
 <br>
 
-## Professional Certifications & Credentials
+### Professional Certifications & Credentials
 
 A deliberately curated set of certifications and credentials validating production-facing capability across AI/MLOps platforms, cloud infrastructure, and security-by-design. Additional credentials are listed below for completeness.
 <br>
@@ -34,23 +34,45 @@ A deliberately curated set of certifications and credentials validating producti
 
 <hr>
 
+#### Cyera Certified DSPM Architect
+
+<p align="left">
+  <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_dspm_a_icon.png" title="Cyera Certified DSPM Architect">
+    <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_dspm_a.png" alt="DSPM Architect" width="72" />
+  </a>
+
+
+
+#### Kubeflow
+
+<p align="left">
+  <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf_icon.png" title="LFS147x: Introduction to AI/ML Toolkits with Kubeflow">
+    <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" alt="LFS147x" width="72" />
+  </a>
+
 #### Agentic AI
 
 <p align="left">
-  <a href="https://github.com/neeraj-sharma-0/agentic_ai" title="Agentic AI: Using Python Langchain, Langgraph, Langsmith">
+  <a href="https://github.com/neeraj-sharma-0/agentic_ai_icon.png" title="Agentic AI: Using Python Langchain, Langgraph, Langsmith">
     <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/NS_agentic_ai.png" width="72" />
   </a>
- 
-### Kubeflow
 
-<p align="left">
-  <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" title="LFS147x: Introduction to AI/ML Toolkits with Kubeflow">
-    <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" alt="LFS147x" width="72" />
-  </a>
- 
+<hr>
+
+## Certifications
+
+| Certification | Focus | Status | Evidence |
+|--------------|------|--------|----------|
+| **Cyera Certified DSPM Architect**<br/>![Cyera DSPM Architect](assets/certs/ns_dspm_a_icon.png) | DSPM, data discovery & classification; exposure, risk & governance | Earned | [Certificate (PNG)](assets/certs/cyera-dspm-architect.png) |
+| **Kubeflow**<br/>![Kubeflow](assets/certs/ns_kf_icon.png) | Kubernetes-native MLOps; pipelines, training & serving | Earned | [Certificate (PNG)](assets/certs/kubeflow.png) |
+| **Agentic AI**<br/>![Agentic AI](assets/certs/NS_agentic_ai_icon.png) | Agent-based systems; orchestration, tool-calling & guardrails | Earned | [Certificate (PNG)](assets/certs/agentic-ai.png) |
+
+
+<hr>
+
 <br>
 
-### IBM-issued Credly Badges
+#### IBM-issued Credly Badges
 <hr>
 <p align="left">
   <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="IBM Generative & Agentic AI Foundations">
