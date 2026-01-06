@@ -36,26 +36,6 @@ A deliberately curated set of certifications and credentials validating producti
 
 #### Cyera Certified DSPM Architect
 
-<p align="left">
-  <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_dspm_a_icon.png" title="Cyera Certified DSPM Architect">
-    <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_dspm_a.png" alt="DSPM Architect" width="72" />
-  </a>
-
-
-
-#### Kubeflow
-
-<p align="left">
-  <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf_icon.png" title="LFS147x: Introduction to AI/ML Toolkits with Kubeflow">
-    <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" alt="LFS147x" width="72" />
-  </a>
-
-#### Agentic AI
-
-<p align="left">
-  <a href="https://github.com/neeraj-sharma-0/agentic_ai_icon.png" title="Agentic AI: Using Python Langchain, Langgraph, Langsmith">
-    <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/NS_agentic_ai.png" width="72" />
-  </a>
 
 <hr>
 
