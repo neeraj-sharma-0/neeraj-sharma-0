@@ -10,6 +10,17 @@ Staff / Principal-level platform engineer and architect with 25+ years of experi
 
 This page serves as a consolidated reference for recruiters and hiring managers, spanning experience, technical focus, and applied work beyond a résumé.
 
+## Representative Applied Work
+
+### Agentic AI & SDLC Automation
+- Designed and implemented agentic AI systems to automate SDLC decision points, including validation, policy enforcement, and execution control using tool-calling agents and orchestration workflows.
+- Focused on practical agent design patterns such as task decomposition, guarded tool execution, state management, and integration with CI/CD and cloud-native platforms.  
+  ([GitHub Repository](https://github.com/neeraj-sharma-0/agentic_ai))
+
+### Data Engineering & Analytics Correctness
+- Authored a technical deep dive on Pandas DataFrame ingestion semantics, demonstrating how dtype decisions at ingestion propagate through analytics pipelines,
+  ([Article](https://www.linkedin.com/posts/neeraj_pandas-dataframe-ingestion-dtypes-visual-activity-7411451068825567232-54Jc))
+
 #### Experience Snapshot
 
 [Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)
