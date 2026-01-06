@@ -49,7 +49,7 @@ A deliberately curated set of certifications and credentials validating producti
 
 | Project | Focus | Evidence |
 |--------|-------|----------|
-| <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/certs/NS_agentic_ai.png" target="_blank"> <img src="assets/certs/NS_agentic_ai_icon.png" width="96" alt="Agentic AI - Langchain"></a> | Agentic AI: CVE + EPSS Prioritization leveraging Python Langchain, Langgraph, Langsmith | Private project |
+| <a href="https://github.com/neeraj-sharma-0/agentic_ai/blob/main/README.md" target="_blank"> <img src="assets/certs/NS_agentic_ai_icon.png" width="96" alt="Agentic AI - Langchain"></a> | Agentic AI: CVE + EPSS Prioritization leveraging Python Langchain, Langgraph, Langsmith | Private project |
 
 
 
