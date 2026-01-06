@@ -45,8 +45,7 @@ A deliberately curated set of certifications and credentials validating producti
 |--------------|------|--------|
 | **Cyera Certified DSPM Architect**<br/><a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/certs/ns_dspm_a.png" target="_blank"> <img src="assets/certs/ns_dspm_a_icon.png" width="96" alt="Cyera DSPM Architect"></a> | DSPM, data discovery & classification; exposure, risk & governance | Earned | 
 | **Kubeflow**<br/><a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/certs/ns_kf.png" target="_blank"> <img src="assets/certs/ns_kf_icon.png" width="96" alt="Kubeflow for AI/ML Toolkits"></a> | Kubernetes-native MLOps; pipelines, training & serving | Earned | 
-| **Agentic AI**<br/><a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/certs/NS_agentic_ai.png" target="_blank"> <img src="assets/certs/NS_agentic_ai_icon.png" width="96" alt="Agentic AI - Langchain"></a>
-<br>[Agentic-AI GitHub](https://github.com/neeraj-sharma-0/agentic_ai) | Agent-based systems; orchestration, tool-calling & guardrails | Earned | 
+| **Agentic AI**<br/><a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/certs/NS_agentic_ai.png" target="_blank"> <img src="assets/certs/NS_agentic_ai_icon.png" width="96" alt="Agentic AI - Langchain"></a> [Agentic-AI GitHub](https://github.com/neeraj-sharma-0/agentic_ai) | Agent-based systems; orchestration, tool-calling & guardrails | Earned | 
 
 
 <hr>
