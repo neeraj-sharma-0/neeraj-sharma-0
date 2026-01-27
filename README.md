@@ -2,6 +2,10 @@
   <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/NS_GGate_LinkedIn_Banner.png" width="100%" />
 </p>
 
+|         |                                    |        |                                      |        |              |
+|----------|------------------------------------|--------|--------------------------------------|--------|--------------|
+ Linkedin | https://www.linkedin.com/in/neeraj | Email  | mail4neeraj@gmail.com                | Mobile | 669-241-2101 |
+
 # Neeraj Sharma
 
 Staff / Principal Cloud & Platform Architect | DevSecOps & DSPM | Kubernetes & CI/CD | Applied AI/ML & GenAI | Hybrid Cloud | IoT (Smart Grid)
@@ -123,9 +127,3 @@ A deliberately curated set of certifications and credentials validating producti
 
 </details>
 <hr>
-### Contact Information
- |       |                                      |  
-|--------|--------------------------------------|
-| Email | mail4neeraj@gmail.com                 |
-| Mobile | 669-241-2101                         |
-| Linkedin | https://www.linkedin.com/in/neeraj |
