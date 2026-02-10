@@ -58,7 +58,7 @@ A deliberately curated set of certifications and credentials validating producti
 
 | Certification | Focus | Status | Optional Gihub Projects |
 |--------------|------|--------|--|
-| **Cyera Certified DSPM Architect**<br/><a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/certs/ns_dspm_a.png" target="_blank"> <img src="assets/certs/ns_dspm_a_icon.png" width="96" alt="Cyera DSPM Architect"></a> | DSPM, data discovery & classification; exposure, risk & governance | Earned | [DSPM-ZeroTrust](https://github.com/neeraj-sharma-0/DSPM_ZeroTrust) |
+| **Cyera Certified DSPM Architect**<br/><a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/certs/ns_dspm_a.png" target="_blank"> <img src="assets/certs/ns_dspm_a_icon.png" width="96" alt="Cyera DSPM Architect"></a> | DSPM, data discovery & classification; exposure, risk & governance | Earned | [DSPM-ZeroTrust](https://github.com/neeraj-sharma-0/DSPM_ZeroTrust)<br>[DSPM-Subnetting](https://github.com/neeraj-sharma-0/DSPM-Subnetting-ExposureGraph-Agnostic) |
 | **Kubeflow**<br/><a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/certs/ns_kf.png" target="_blank"> <img src="assets/certs/ns_kf_icon.png" width="96" alt="Kubeflow for AI/ML Toolkits"></a> | Kubernetes-native MLOps; pipelines, training & serving | Earned | |
 
 
