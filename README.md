@@ -16,14 +16,22 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 
 ## Representative Applied Work
 
+#### ePortfolios:
+
+- UT Austin
+  - [PGDSBA ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma11)
+  - [AIDL ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma13)
+
+### Data Engineering & Analytics Correctness
+- Authored a technical deep dive on Pandas DataFrame ingestion semantics, demonstrating how dtype decisions at ingestion propagate through analytics pipelines,
+  ([Article](https://www.linkedin.com/posts/neeraj_pandas-dataframe-ingestion-dtypes-visual-activity-7411451068825567232-54Jc))
+
 ### Agentic AI & SDLC Automation
 - Designed and implemented agentic AI systems to automate SDLC decision points, including validation, policy enforcement, and execution control using tool-calling agents and orchestration workflows.
 - Focused on practical agent design patterns such as task decomposition, guarded tool execution, state management, and integration with CI/CD and cloud-native platforms.  
   ([GitHub Repository](https://github.com/neeraj-sharma-0/agentic_ai))
 
-### Data Engineering & Analytics Correctness
-- Authored a technical deep dive on Pandas DataFrame ingestion semantics, demonstrating how dtype decisions at ingestion propagate through analytics pipelines,
-  ([Article](https://www.linkedin.com/posts/neeraj_pandas-dataframe-ingestion-dtypes-visual-activity-7411451068825567232-54Jc))
+<hr>
 
 #### Experience Snapshot
 
@@ -34,11 +42,7 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 
 [neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
 
-#### ePortfolios:
-- [UT Austin: PGDSBA ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma11)
-- [UT Austin: AIDL ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma13)
-
-<br>
+<hr>
 
 ### Professional Certifications & Credentials
 
