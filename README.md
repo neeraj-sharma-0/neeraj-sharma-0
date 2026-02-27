@@ -21,7 +21,6 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 [Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)
 
 #### Complete Resume
-[neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
 
 [neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
 
