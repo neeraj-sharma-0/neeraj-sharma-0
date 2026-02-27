@@ -14,6 +14,20 @@ Staff / Principal-level platform engineer and architect with 25+ years of experi
 
 This page serves as a consolidated reference for recruiters and hiring managers, spanning experience, technical focus, and applied work beyond a résumé.
 
+<hr>
+
+#### Experience Snapshot
+
+[Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)
+
+#### Complete Resume
+[neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
+
+[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
+
+<hr>
+
+
 ## Representative Applied Work
 
 #### ePortfolios:
@@ -30,17 +44,6 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 - Designed and implemented agentic AI systems to automate SDLC decision points, including validation, policy enforcement, and execution control using tool-calling agents and orchestration workflows.
 - Focused on practical agent design patterns such as task decomposition, guarded tool execution, state management, and integration with CI/CD and cloud-native platforms.  
   ([GitHub Repository](https://github.com/neeraj-sharma-0/agentic_ai))
-
-<hr>
-
-#### Experience Snapshot
-
-[Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)
-
-#### Complete Resume
-[neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
-
-[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
 
 <hr>
 
