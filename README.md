@@ -35,7 +35,8 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 [neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
 
 #### ePortfolios:
-[UT Austin: PGDSBA ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma11)
+- [UT Austin: PGDSBA ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma11)
+- [UT Austin: AIDL ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma13)
 
 <br>
 
