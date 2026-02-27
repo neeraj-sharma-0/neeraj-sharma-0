@@ -50,11 +50,6 @@ A deliberately curated set of certifications and credentials validating producti
 
 <hr>
 
-#### Cyera Certified DSPM Architect
-
-
-<hr>
-
 ## Certifications
 
 | Certification | Focus | Status | Optional Gihub Projects |
