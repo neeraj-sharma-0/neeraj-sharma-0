@@ -10,14 +10,14 @@
 
 Principal Platform Engineer | DevSecOps, Kubernetes, CI/CD | AI Infrastructure & Cloud Security | Kubeflow, DSPM
 
-Principal Platform Engineer specializing in secure cloud and AI infrastructure.
+I design and operate secure cloud platforms that power production systems and AI/ML workloads.
 
-I design and operate Kubernetes-based platforms that power production systems and AI/ML workloads while enforcing strong DevSecOps and cloud security practices. My work focuses on building scalable platform foundations — CI/CD pipelines, infrastructure automation, and security controls — that enable engineering teams to ship reliable software safely and quickly.
+My work focuses on building Kubernetes-based platforms that combine DevSecOps automation, CI/CD pipelines, and strong cloud security practices. I build scalable platform foundations that enable engineering teams to ship reliable software safely and quickly.
 
 Key areas of focus:
-• Platform Engineering and Kubernetes-based infrastructure
+• Platform engineering and Kubernetes-based infrastructure
 • DevSecOps, CI/CD pipelines, and cloud-native automation
-• Cloud Security and data protection for distributed systems
+• Cloud security and data protection for distributed systems
 • AI/ML platform infrastructure including Kubeflow
 • Data Security Posture Management (DSPM) for modern platforms
 
