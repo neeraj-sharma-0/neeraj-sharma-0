@@ -8,7 +8,7 @@
 
 # Neeraj Sharma
 
-Principal Platform Engineer | DevSecOps, Kubernetes, CI/CD | AI Infrastructure & Cloud Security | Kubeflow, DSPM
+## Principal Platform Engineer | DevSecOps, Kubernetes, CI/CD | AI Infrastructure & Cloud Security | Kubeflow, DSPM
 
 I design and operate secure cloud platforms that power production systems and AI/ML workloads.
 
