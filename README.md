@@ -8,9 +8,20 @@
 
 # Neeraj Sharma
 
-Staff / Principal Cloud & Platform Architect | DevSecOps & DSPM | Kubernetes & CI/CD | Applied AI/ML & GenAI | Hybrid Cloud | IoT (Smart Grid)
+Principal Platform Engineer | DevSecOps, Kubernetes, CI/CD | AI Infrastructure & Cloud Security | Kubeflow, DSPM
 
-Staff / Principal-level platform engineer and architect with 25+ years of experience building and operating secure, large-scale cloud, distributed, and IoT platforms across enterprise and industrial environments. I focus on designing systems where architecture, reliability, security, and data-informed (AI-assisted) decision-making intersect to deliver durable, production-grade outcomes.
+Principal Platform Engineer specializing in secure cloud and AI infrastructure.
+
+I design and operate Kubernetes-based platforms that power production systems and AI/ML workloads while enforcing strong DevSecOps and cloud security practices. My work focuses on building scalable platform foundations — CI/CD pipelines, infrastructure automation, and security controls — that enable engineering teams to ship reliable software safely and quickly.
+
+Key areas of focus:
+• Platform Engineering and Kubernetes-based infrastructure
+• DevSecOps, CI/CD pipelines, and cloud-native automation
+• Cloud Security and data protection for distributed systems
+• AI/ML platform infrastructure including Kubeflow
+• Data Security Posture Management (DSPM) for modern platforms
+
+I am particularly interested in building secure AI-ready cloud platforms where platform engineering, security, and machine learning infrastructure converge.
 
 This page serves as a consolidated reference for recruiters and hiring managers, spanning experience, technical focus, and applied work beyond a résumé.
 
