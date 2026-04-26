@@ -22,7 +22,7 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 
 #### Complete Resume
 
-[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
+[neeraj-sharma-complete-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-complete-resume.pdf)  
 
 <hr>
 
