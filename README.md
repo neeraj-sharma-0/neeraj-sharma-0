@@ -12,7 +12,7 @@
 
 I operate and evolve secure cloud platforms for production systems, AI/ML workloads, and agentic AI applications. My work includes Kubernetes-based platforms supporting 60+ microservices, DevSecOps automation, cloud security, and RAG workflows. Below are selected projects demonstrating DSPM, AI/ML infrastructure, and secure cloud platform engineering.
 
-This page serves as a consolidated reference for recruiters and hiring managers, spanning experience, technical focus, and applied work beyond a résumé.
+This repository provides a consolidated reference for recruiters and hiring managers, highlighting platform engineering, AI/ML infrastructure, and DSPM implementations.
 
 <hr>
 
