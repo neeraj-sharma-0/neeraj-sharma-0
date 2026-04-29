@@ -8,9 +8,16 @@
 
 # Neeraj Sharma
 
-## Principal Platform Engineer | DevSecOps, Kubernetes, CI/CD | AI Infrastructure & Cloud Security | Kubeflow, DSPM
+## AI/ML Security Architect | DSPM · DevSecOps · Zero Trust | Cloud-Native Platforms · Kubernetes
 
-I operate and evolve secure cloud platforms for production systems, AI/ML workloads, and agentic AI applications. My work includes Kubernetes-based platforms supporting 60+ microservices, DevSecOps automation, cloud security, and RAG workflows. Below are selected projects demonstrating DSPM, AI/ML infrastructure, and secure cloud platform engineering.
+I secure sensitive data across AI/ML platforms where visibility is limited and risk is high.
+
+As a Certified DSPM Architect, I focus on protecting data flows across Kubernetes, Kubeflow, vector databases, and LLM systems — making security practical and enforceable through DSPM, Zero Trust, and DevSecOps integration.
+
+I have simulated and detected data leakage scenarios across vector databases, RAG workflows, and DevSecOps pipelines using synthetic data — with end-to-end lineage tracking and policy validation across cloud-native environments.
+
+Where I focus:
+AI/ML Platform Security · DSPM · Zero Trust · Kubernetes · DevSecOps · Agentic AI Security
 
 This repository provides a consolidated reference for recruiters and hiring managers, highlighting platform engineering, AI/ML infrastructure, and DSPM implementations.
 
