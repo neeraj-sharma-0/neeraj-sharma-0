@@ -23,16 +23,6 @@ This repository provides a consolidated reference for recruiters and hiring mana
 
 <hr>
 
-#### Experience Snapshot
-
-[Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)
-
-#### Complete Resume
-
-[neeraj-sharma-complete-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-complete-resume.pdf)  
-
-<hr>
-
 
 ## Representative Applied Work
 
