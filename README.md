@@ -1,5 +1,7 @@
 [![Neeraj Sharma Banner](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/images/NS_Linkedin_Banner.png)](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/images/NS_Linkedin_Banner.png)
 
+*A consolidated reference for recruiters and hiring managers — platform engineering, AI/ML infrastructure, and DSPM implementations.*
+
 | LinkedIn | Email | Mobile |
 |---|---|---|
 | [linkedin.com/in/neeraj](https://www.linkedin.com/in/neeraj) | mail4neeraj@gmail.com | 669-241-2101 |
@@ -103,7 +105,3 @@ A deliberately curated set of certifications validating production-facing capabi
 ## Data Engineering & Analytics
 
 - Technical deep dive on Pandas DataFrame ingestion semantics — how dtype decisions at ingestion propagate through analytics pipelines → [Medium Article](https://medium.com/@neeraj-sharma/dataframe-ingestion-supported-dtypes-162b526e2900)
-
----
-
-*This repository provides a consolidated reference for recruiters and hiring managers, highlighting platform engineering, AI/ML infrastructure, and DSPM implementations.*
