@@ -1,4 +1,4 @@
-[![Neeraj Sharma Banner](https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/images/NS_GGate_LinkedIn_Banner.png)](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/images/NS_Linkedin_Banner.png)
+[![Neeraj Sharma Banner](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/images/NS_Linkedin_Banner.png)](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/assets/images/NS_Linkedin_Banner.png)
 
 | LinkedIn | Email | Mobile |
 |---|---|---|
