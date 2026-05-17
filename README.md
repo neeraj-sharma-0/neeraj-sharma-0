@@ -3,6 +3,7 @@
 *A consolidated reference for recruiters and hiring managers — platform engineering, AI/ML infrastructure, and DSPM implementations.*
 
 ### 📄 [Download Resume — Experience Snapshot (PDF)](https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/Neeraj_Sharma_Experience_Snapshot.pdf)
+*Complete resume with full 30-year career history available on request.*
 
 | LinkedIn | Email | Mobile |
 |---|---|---|
