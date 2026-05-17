@@ -85,21 +85,18 @@ A deliberately curated set of certifications validating production-facing capabi
 
 ### IBM Credly Badges
 
-<img src="https://images.credly.com/size/110x110/images/896fd94a-36a2-42f0-805a-bde6f9516d5a/image.png" width="80" title="IBM Cloud DevSecOps v1 Specialty"/> <img src="https://images.credly.com/size/110x110/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" width="80" title="IBM Generative & Agentic AI Foundations"/> <img src="https://images.credly.com/size/110x110/images/817e6df0-5259-46a8-a739-fade09ea0a1d/Trustworthy-AI-and-AI-Ethics-Foundations.png" width="80" title="Trustworthy AI and AI Ethics"/>
+<img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Generative_Agentic_AI_Foundations.png" width="80" title="IBM Generative & Agentic AI Foundations"/> <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Cloud_DevSecOps_v1_Specialty.png" width="80" title="IBM Cloud DevSecOps v1 Specialty"/> <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Trustworthy_AI_and_AI_Ethics.png" width="80" title="Trustworthy AI and AI Ethics"/> <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_watsonx_Essentials.png" width="80" title="IBM watsonx Essentials"/> <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Containers_Kubernetes_Essentials.png" width="80" title="Containers & Kubernetes Essentials"/>
 
 <details>
 <summary>View all IBM badges</summary>
 
-<img src="https://images.credly.com/size/110x110/images/47a15e48-3fd7-4c36-8f7e-639a659458d8/image.png" width="80" title="IBM watsonx Essentials"/>
-<img src="https://images.credly.com/size/110x110/images/0cc4f5e5-e9b7-45f9-ad21-e5a773c298dc/blob" width="80" title="IBM DevSecOps Explorer"/>
-<img src="https://images.credly.com/size/110x110/images/24eedcef-ecf7-4c79-821c-c2588d7f0e64/IBM_Certified_Technical_Advocate_-_IBM_Cloud_v3.png" width="80" title="IBM Certified Technical Advocate - Cloud v3"/>
-<img src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bca36674/Badges_v8-07_Practitioner.png" width="80" title="Enterprise Design Thinking Practitioner"/>
-<img src="https://images.credly.com/size/110x110/images/10731eac-65fb-405b-aabb-03f42031b599/Security-and-Privacy-by-Design-Foundational.png" width="80" title="Security and Privacy by Design Foundations"/>
-<img src="https://images.credly.com/size/110x110/images/70aa50d8-29db-45da-9c7c-df6e436e8921/PSIRT-Responder.png" width="80" title="PSIRT Responder"/>
-<img src="https://images.credly.com/size/110x110/images/82966826-6630-4768-80d4-6028b3fab414/image.png" width="80" title="Containers & Kubernetes Essentials"/>
-<img src="https://images.credly.com/size/110x110/images/0019019c-4277-43d0-9d3b-8f33e11d8e8a/image.png" width="80" title="IBM Cloud Technical Advocate Accelerator"/>
-<img src="https://images.credly.com/size/110x110/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob" width="80" title="IBM Cloud Essentials"/>
-<img src="https://images.credly.com/size/110x110/images/5ee26427-f944-4182-b802-459462184c9a/image.png" width="80" title="Cloud Essentials"/>
+<img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_DevSecOps_Explorer.png" width="80" title="IBM DevSecOps Explorer"/>
+<img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Certified_Technical_Advocate_Cloud_v3.png" width="80" title="IBM Certified Technical Advocate - Cloud v3"/>
+<img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Enterprise_Design_Thinking_Practitioner.png" width="80" title="Enterprise Design Thinking Practitioner"/>
+<img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Security_Privacy_by_Design_Foundations.png" width="80" title="Security and Privacy by Design Foundations"/>
+<img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_PSIRT_Responder.png" width="80" title="PSIRT Responder"/>
+<img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Cloud_Technical_Advocate_Accelerator.png" width="80" title="IBM Cloud Technical Advocate Accelerator"/>
+<img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/raw/main/assets/certs/IBM_Cloud_Essentials.png" width="80" title="IBM Cloud Essentials"/>
 
 </details>
 
