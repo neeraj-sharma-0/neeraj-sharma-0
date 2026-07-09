@@ -60,7 +60,7 @@ Agentic AI system leveraging Python LangChain, LangGraph, LangSmith for automate
 
 - PGP Data Science & Business Analytics (Completed) — [ePortfolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma11)
 - PGP AI & Deep Learning (Completed) — [ePortfolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma13)
-- IBM Generative AI Engineering *(ETA June 2026)*
+- IBM Generative AI Engineering [Microcredential](https://ibm.credential.getsmarter.com/693b7017-6a34-49a0-8abe-1743804062d8)
 
 ---
 
